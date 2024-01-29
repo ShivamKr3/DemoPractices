@@ -1,0 +1,26 @@
+// Basic questions on String :
+
+
+How to declare a string in Java?
+What is the difference between str1 == str2 and str1.equals(str2)?
+What are the different string methods in Java?
+How do you check whether a String is empty in Java?
+How to print all permutations of string in Java?
+Make string folder on local machine and push on git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////
